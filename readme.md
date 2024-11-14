@@ -1,3 +1,7 @@
+## 比赛
+2024 CICC 社会认知与决策大赛
+http://www.crowdhmt.com/scd/submit
+
 ## 运行环境
 ```
 python==3.9.1
