@@ -36,7 +36,7 @@ learning_rate=0.0003
 ## Quickstart
 Download the pre-trained bert-base-chinese model from this [link](https://huggingface.co/google-bert/bert-base-chinese/tree/main) and save it in the `/data/` directory.
 
-Download dataset from this [link](https://pan.baidu.com/s/1KhaexKzVHKb9calgo8_BLA?pwd=ma6q#list/path=%2F) and save it in the `/data/` directory.
+Download dataset from this [link](https://pan.baidu.com/s/1KhaexKzVHKb9calgo8_BLA?pwd=ma6q#list/path=%2F) and save `train_data.json`、`val_data.json`、`test_data.json` in the `/data/` directory.
 
 generate the data.pkl file
 ```
